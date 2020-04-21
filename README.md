@@ -1,4 +1,3 @@
-# In progress...
 # Segmenting and Clustering Neighborhoods
 
 In this project, I obtain the Zip code, Borough and Name for different Neighborhoods in a particular city. I then convert addresses into their equivalent latitude and longitude values using [geopy](https://geopy.readthedocs.io/en/1.10.0/) geolocator python library.
